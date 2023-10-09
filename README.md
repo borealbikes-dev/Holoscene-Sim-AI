@@ -1,4 +1,4 @@
-# Training Model on Holoscene Bike Simulator to detect becnhes
+# Training Model on Holoscene Bike Simulator to detect benches
 
 ## Access the Cloud Instance
 
