@@ -35,7 +35,7 @@ To capture images, open a new terminal and run the following commands: -
 
 ```
 cd Holoscene-SDV-Sim-pycycling_bt/bicycle/images
-source /opt/ros/focal/setup.bash
+source /opt/ros/foxy/setup.bash
 python3 capture_images.py
 ```
 
